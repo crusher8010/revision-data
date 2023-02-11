@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "crusher8010",
+            "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+            "email": "anirudhamandal8010@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
